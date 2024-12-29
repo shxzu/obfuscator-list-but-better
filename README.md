@@ -69,6 +69,6 @@ look around hard enough. Can be deobfuscated using [JavaDeobfuscator](https://gi
 * Zortfuscator - Unknown Price - Commercial. Dead, not so known obfuscator. Can tell that it has good obfuscation techniques from the look at the samples they have on their discord server and some small sample in a video made by [akita](https://www.youtube.com/watch?v=0B9SPdt75JQ).
 
 # Obfuscation Branchmarks:
-This repo isn't very helpful I will make a better and more explanitory benchmark repo in the future. -shxzu
+This repo is currently a WIP but it's probably the most explanitory benchmark list.
 
-**https://github.com/huzpsb/JavaObfuscatorTest**
+**https://github.com/shxzu/java-obfuscator-benchmarks**
